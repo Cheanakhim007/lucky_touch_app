@@ -1,4 +1,4 @@
-package com.example.finger_play_app
+package ccom.example.lucky_touch
 
 import io.flutter.embedding.android.FlutterActivity
 
