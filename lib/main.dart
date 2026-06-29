@@ -40,6 +40,7 @@ enum HoldMode    { hold, touch }   // NEW
 
 class LuckyTouchApp extends StatelessWidget {
   const LuckyTouchApp({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
