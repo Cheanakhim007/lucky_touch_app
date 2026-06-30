@@ -1,4 +1,4 @@
-package com.example.lucky_touch
+package com.lucky_touch
 
 import io.flutter.embedding.android.FlutterActivity
 
