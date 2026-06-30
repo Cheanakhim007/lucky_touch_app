@@ -50,6 +50,8 @@ android {
     defaultConfig {
         applicationId "com.lucky_touch"
         minSdkVersion 23
+        targetSdkVersion 35
+        compileSdkVersion 35
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
